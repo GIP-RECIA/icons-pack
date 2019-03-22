@@ -1,13 +1,6 @@
-<style type="text/css">
-img {
-   width: 50px;
-   height: 50px;
-}
-</style>
-
 # Liste des icônes disponibles
 
-![](./portlet_icons/AccesOAE_RECIA.svg | width=50)
+![](./portlet_icons/AccesOAE_RECIA.svg =50x)
 ![](./portlet_icons/accueil-cfa.svg)
 ![](./portlet_icons/accueil-clg37.svg)
 ![](./portlet_icons/accueil-lycees.svg)
