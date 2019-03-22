@@ -1,6 +1,6 @@
 # Liste des icônes disponibles
 
-![](./portlet_icons/AccesOAE_RECIA.svg =50x)
+![](./portlet_icons/AccesOAE_RECIA.svg)
 ![](./portlet_icons/accueil-cfa.svg)
 ![](./portlet_icons/accueil-clg37.svg)
 ![](./portlet_icons/accueil-lycees.svg)
