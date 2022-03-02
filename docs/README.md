@@ -6,6 +6,7 @@
 <img src="./icons/accueil-clg37.svg" alt="icon" width="50" height="50" >
 <img src="./icons/accueil-lycees.svg" alt="icon" width="50" height="50" >
 <img src="./icons/ActualitesCD37.svg" alt="icon" width="50" height="50" >
+<img src="./icons/ActualitesCollectivite.svg" alt="icon" width="50" height="50" >
 <img src="./icons/ActualitesEtab.svg" alt="icon" width="50" height="50" >
 <img src="./icons/ActualitesRegion.svg" alt="icon" width="50" height="50" >
 <img src="./icons/AdminListesDiffusion.svg" alt="icon" width="50" height="50" >
