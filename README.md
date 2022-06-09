@@ -105,6 +105,7 @@
 ![](./portlet_icons/Teleservices.svg)
 ![](./portlet_icons/VideoNOCWPP.svg)
 ![](./portlet_icons/VieScolaire.svg)
+![](./portlet_icons/Yakforms.svg)
 ![](./portlet_icons/YEPS.svg)
 ![](./portlet_icons/YmagLog.svg)
 ![](./portlet_icons/Ypareo.svg)
