@@ -59,6 +59,7 @@
 <img src="./icons/HelpInfo.svg" alt="icon" width="50" height="50" >
 <img src="./icons/I2Grouper-UI.svg" alt="icon" width="50" height="50" >
 <img src="./icons/infosEtoile.svg" alt="icon" width="50" height="50" >
+<img src="./icons/InstantsMetiers.svg" alt="icon" width="50" height="50" >
 <img src="./icons/Intranet.svg" alt="icon" width="50" height="50" >
 <img src="./icons/ITSM.svg" alt="icon" width="50" height="50" >
 <img src="./icons/ItsTours_VieEtudiante.svg" alt="icon" width="50" height="50" >

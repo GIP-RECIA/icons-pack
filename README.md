@@ -50,6 +50,7 @@
 ![](./portlet_icons/HelpInfo.svg)
 ![](./portlet_icons/I2Grouper-UI.svg)
 ![](./portlet_icons/infosEtoile.svg)
+![](./portlet_icons/InstantsMetiers.svg)
 ![](./portlet_icons/ITSM.svg)
 ![](./portlet_icons/ItsTours_VieEtudiante.svg)
 ![](./portlet_icons/LEA.svg)
