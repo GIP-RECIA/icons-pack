@@ -29,6 +29,7 @@
 ![](./portlet_icons/CPRO.svg)
 ![](./portlet_icons/DocENT.svg)
 ![](./portlet_icons/DocumentsEtab.svg)
+![](./portlet_icons/DocumentsCollectivite.svg)
 ![](./portlet_icons/EchoSpheres.svg)
 ![](./portlet_icons/EDT.svg)
 ![](./portlet_icons/EducationIndre.svg)

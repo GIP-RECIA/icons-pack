@@ -34,6 +34,7 @@
 <img src="./icons/CPRO.svg" alt="icon" width="50" height="50" >
 <img src="./icons/DocENT.svg" alt="icon" width="50" height="50" >
 <img src="./icons/DocumentsEtab.svg" alt="icon" width="50" height="50" >
+<img src="./icons/DocumentsCollectivite.svg" alt="icon" width="50" height="50" >
 <img src="./icons/EchoSpheres.svg" alt="icon" width="50" height="50" >
 <img src="./icons/EDT.svg" alt="icon" width="50" height="50" >
 <img src="./icons/EducationCher.svg" alt="icon" width="50" height="50" >
