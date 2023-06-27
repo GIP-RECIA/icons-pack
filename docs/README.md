@@ -121,7 +121,7 @@
 <img src="./icons/Teleservices.svg" alt="icon" width="50" height="50" >
 <img src="./icons/VideoNOCWPP.svg" alt="icon" width="50" height="50" >
 <img src="./icons/VieScolaire.svg" alt="icon" width="50" height="50" >
-<img src="./icons/WebGeRest.svg" alt="icon" width="50" height="50" >
+<img src="./icons/GestRestSco.svg" alt="icon" width="50" height="50" >
 <img src="./icons/Yakforms.svg" alt="icon" width="50" height="50" >
 <img src="./icons/YEPS.svg" alt="icon" width="50" height="50" >
 <img src="./icons/YmagLog.svg" alt="icon" width="50" height="50" >
