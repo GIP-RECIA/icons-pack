@@ -104,6 +104,7 @@
 <img src="./icons/referentielLogicielsColleges.svg" alt="icon" width="50" height="50" >
 <img src="./icons/RessourcesNumeriques.svg" alt="icon" width="50" height="50" >
 <img src="./icons/RessourcesOrientationLycees.svg" alt="icon" width="50" height="50" >
+<img src="./icons/RestoGest.svg" alt="icon" width="50" height="50" >
 <img src="./icons/ResumeActualitesCD37.svg" alt="icon" width="50" height="50" >
 <img src="./icons/ResumeActualitesEtab.svg" alt="icon" width="50" height="50" >
 <img src="./icons/ResumeActualitesRegion.svg" alt="icon" width="50" height="50" >
@@ -121,7 +122,6 @@
 <img src="./icons/Teleservices.svg" alt="icon" width="50" height="50" >
 <img src="./icons/VideoNOCWPP.svg" alt="icon" width="50" height="50" >
 <img src="./icons/VieScolaire.svg" alt="icon" width="50" height="50" >
-<img src="./icons/GestRestSco.svg" alt="icon" width="50" height="50" >
 <img src="./icons/Yakforms.svg" alt="icon" width="50" height="50" >
 <img src="./icons/YEPS.svg" alt="icon" width="50" height="50" >
 <img src="./icons/YmagLog.svg" alt="icon" width="50" height="50" >
