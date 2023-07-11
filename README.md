@@ -92,6 +92,8 @@
 ![](./portlet_icons/RessourcesNumeriques.svg)
 ![](./portlet_icons/RessourcesOrientationLycees.svg)
 ![](./portlet_icons/RestoGest.svg)
+![](./portlet_icons/RestoResa.svg)
+![](./portlet_icons/RestoTarif.svg)
 ![](./portlet_icons/ResumeActualitesCD37.svg)
 ![](./portlet_icons/ResumeActualitesEtab.svg)
 ![](./portlet_icons/ResumeActualitesRegion.svg)

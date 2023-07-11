@@ -105,6 +105,8 @@
 <img src="./icons/RessourcesNumeriques.svg" alt="icon" width="50" height="50" >
 <img src="./icons/RessourcesOrientationLycees.svg" alt="icon" width="50" height="50" >
 <img src="./icons/RestoGest.svg" alt="icon" width="50" height="50" >
+<img src="./icons/RestoResa.svg" alt="icon" width="50" height="50" >
+<img src="./icons/RestoTarif.svg" alt="icon" width="50" height="50" >
 <img src="./icons/ResumeActualitesCD37.svg" alt="icon" width="50" height="50" >
 <img src="./icons/ResumeActualitesEtab.svg" alt="icon" width="50" height="50" >
 <img src="./icons/ResumeActualitesRegion.svg" alt="icon" width="50" height="50" >
