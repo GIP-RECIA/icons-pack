@@ -33,6 +33,7 @@
 ![](./portlet_icons/DocumentsDRAAF.svg)
 ![](./portlet_icons/DocumentsEtab.svg)
 ![](./portlet_icons/DocumentsCollectivite.svg)
+![](./portlet_icons/DocumentsRectorat.svg)
 ![](./portlet_icons/EchoSpheres.svg)
 ![](./portlet_icons/EDT.svg)
 ![](./portlet_icons/EducationIndre.svg)
