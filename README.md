@@ -30,6 +30,7 @@
 ![](./portlet_icons/CPRO-STI.svg)
 ![](./portlet_icons/CPRO.svg)
 ![](./portlet_icons/DocENT.svg)
+![](./portlet_icons/DocumentsDRAAF.svg)
 ![](./portlet_icons/DocumentsEtab.svg)
 ![](./portlet_icons/DocumentsCollectivite.svg)
 ![](./portlet_icons/EchoSpheres.svg)
