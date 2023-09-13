@@ -9,6 +9,7 @@
 <img src="./icons/ActualitesCollectivite.svg" alt="icon" width="50" height="50" >
 <img src="./icons/ActualitesDRAAF.svg" alt="icon" width="50" height="50" >
 <img src="./icons/ActualitesEtab.svg" alt="icon" width="50" height="50" >
+<img src="./icons/ActualitesRectorat.svg" alt="icon" width="50" height="50" >
 <img src="./icons/ActualitesRegion.svg" alt="icon" width="50" height="50" >
 <img src="./icons/AdminListesDiffusion.svg" alt="icon" width="50" height="50" >
 <img src="./icons/AgendaKronolith.svg" alt="icon" width="50" height="50" >

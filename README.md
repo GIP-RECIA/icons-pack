@@ -8,6 +8,7 @@
 ![](./portlet_icons/ActualitesCollectivite.svg)
 ![](./portlet_icons/ActualitesDRAAF.svg)
 ![](./portlet_icons/ActualitesEtab.svg)
+![](./portlet_icons/ActualitesRectorat.svg)
 ![](./portlet_icons/ActualitesRegion.svg)
 ![](./portlet_icons/AdminListesDiffusion.svg)
 ![](./portlet_icons/AgendaKronolith.svg)
