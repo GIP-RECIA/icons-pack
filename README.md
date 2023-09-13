@@ -6,6 +6,7 @@
 ![](./portlet_icons/accueil-lycees.svg)
 ![](./portlet_icons/ActualitesCD37.svg)
 ![](./portlet_icons/ActualitesCollectivite.svg)
+![](./portlet_icons/ActualitesDRAAF.svg)
 ![](./portlet_icons/ActualitesEtab.svg)
 ![](./portlet_icons/ActualitesRegion.svg)
 ![](./portlet_icons/AdminListesDiffusion.svg)
