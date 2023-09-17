@@ -20,6 +20,8 @@
 ![](./portlet_icons/CAPYTALE.svg)
 ![](./portlet_icons/Catalogue_OPSI.svg)
 ![](./portlet_icons/catalogueRessources.svg)
+![](./portlet_icons/CD18PortailUsager.svg)
+![](./portlet_icons/CD18outilsAgents.svg)
 ![](./portlet_icons/CDITheresePlaniol.svg)
 ![](./portlet_icons/CourrielAcademique.svg)
 ![](./portlet_icons/CourrielEducagri.svg)
