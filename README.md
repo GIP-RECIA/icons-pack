@@ -50,6 +50,7 @@
 ![](./portlet_icons/eurecia.svg)
 ![](./portlet_icons/FlashInfoEtab.svg)
 ![](./portlet_icons/Folios.svg)
+![](./portlet_icons/GLC.svg)
 ![](./portlet_icons/GLPI.svg)
 ![](./portlet_icons/GRR2_CFA.svg)
 ![](./portlet_icons/GRR2_netocentre.svg)

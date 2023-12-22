@@ -58,6 +58,7 @@
 <img src="./icons/eurecia.svg" alt="icon" width="50" height="50" >
 <img src="./icons/FlashInfoEtab.svg" alt="icon" width="50" height="50" >
 <img src="./icons/Folios.svg" alt="icon" width="50" height="50" >
+<img src="./icons/GLC.svg" alt="icon" width="50" height="50" >
 <img src="./icons/glpi.svg" alt="icon" width="50" height="50" >
 <img src="./icons/GLPI.svg" alt="icon" width="50" height="50" >
 <img src="./icons/GRR2_CFA.svg" alt="icon" width="50" height="50" >
