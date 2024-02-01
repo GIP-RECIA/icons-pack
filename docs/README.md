@@ -1,138 +1,138 @@
 # Liste des icônes disponibles
 
-<img src="./icons/AccesOAE_RECIA.svg" alt="icon" width="50" height="50" >
-<img src="./icons/accueil-cfa.svg" alt="icon" width="50" height="50" >
-<img src="./icons/accueil-clg28.svg" alt="icon" width="50" height="50" >
-<img src="./icons/accueil-clg37.svg" alt="icon" width="50" height="50" >
-<img src="./icons/accueil-lycees.svg" alt="icon" width="50" height="50" >
-<img src="./icons/ActualitesCD37.svg" alt="icon" width="50" height="50" >
-<img src="./icons/ActualitesCollectivite.svg" alt="icon" width="50" height="50" >
-<img src="./icons/ActualitesDRAAF.svg" alt="icon" width="50" height="50" >
-<img src="./icons/ActualitesEtab.svg" alt="icon" width="50" height="50" >
-<img src="./icons/ActualitesRectorat.svg" alt="icon" width="50" height="50" >
-<img src="./icons/ActualitesRegion.svg" alt="icon" width="50" height="50" >
-<img src="./icons/AdminListesDiffusion.svg" alt="icon" width="50" height="50" >
-<img src="./icons/AgendaKronolith.svg" alt="icon" width="50" height="50" >
-<img src="./icons/agrilocal18.svg" alt="icon" width="50" height="50" >
-<img src="./icons/AidePortailENT.svg" alt="icon" width="50" height="50" >
-<img src="./icons/aidesInfosCFA.svg" alt="icon" width="50" height="50" >
-<img src="./icons/AnnoncesRECIA.svg" alt="icon" width="50" height="50" >
-<img src="./icons/annuaire.svg" alt="icon" width="50" height="50" >
-<img src="./icons/CahierTexte.svg" alt="icon" width="50" height="50" >
-<img src="./icons/calendar.svg" alt="icon" width="50" height="50" >
-<img src="./icons/CAPYTALE.svg" alt="icon" width="50" height="50" >
-<img src="./icons/Catalogue_OPSI.svg" alt="icon" width="50" height="50" >
-<img src="./icons/catalogueRessources.svg" alt="icon" width="50" height="50" >
-<img src="./icons/CD18extranet.svg" alt="icon" width="50" height="50" >
-<img src="./icons/CD18outilsAgents.svg" alt="icon" width="50" height="50" >
-<img src="./icons/CD18PortailUsager.svg" alt="icon" width="50" height="50" >
-<img src="./icons/CDITheresePlaniol.svg" alt="icon" width="50" height="50" >
-<img src="./icons/chat.svg" alt="icon" width="50" height="50" >
-<img src="./icons/COS.svg" alt="icon" width="50" height="50" >
-<img src="./icons/Corely.svg" alt="icon" width="50" height="50" >
-<img src="./icons/CourrielAcademique.svg" alt="icon" width="50" height="50" >
-<img src="./icons/CourrielEducagri.svg" alt="icon" width="50" height="50" >
-<img src="./icons/CourrielEleves.svg" alt="icon" width="50" height="50" >
-<img src="./icons/CourrielRECIA.svg" alt="icon" width="50" height="50" >
-<img src="./icons/CPRO-STI.svg" alt="icon" width="50" height="50" >
-<img src="./icons/CPRO.svg" alt="icon" width="50" height="50" >
-<img src="./icons/DocENT.svg" alt="icon" width="50" height="50" >
-<img src="./icons/DocumentsDRAAF.svg" alt="icon" width="50" height="50" >
-<img src="./icons/DocumentsEtab.svg" alt="icon" width="50" height="50" >
-<img src="./icons/DocumentsCollectivite.svg" alt="icon" width="50" height="50" >
-<img src="./icons/DocumentsRectorat.svg" alt="icon" width="50" height="50" >
-<img src="./icons/EchoSpheres.svg" alt="icon" width="50" height="50" >
-<img src="./icons/EDT.svg" alt="icon" width="50" height="50" >
-<img src="./icons/EducationCher.svg" alt="icon" width="50" height="50" >
-<img src="./icons/EducationIndre.svg" alt="icon" width="50" height="50" >
-<img src="./icons/EducationLoiret.svg" alt="icon" width="50" height="50" >
-<img src="./icons/EducationLoirEtCher.svg" alt="icon" width="50" height="50" >
-<img src="./icons/EducationTouraine.svg" alt="icon" width="50" height="50" >
-<img src="./icons/email-preview-clg37.svg" alt="icon" width="50" height="50" >
-<img src="./icons/email-preview-netocentre.svg" alt="icon" width="50" height="50" >
-<img src="./icons/ESCO-GLC.svg" alt="icon" width="50" height="50" >
-<img src="./icons/ESCO-MCE.svg" alt="icon" width="50" height="50" >
-<img src="./icons/ESCO-ParamEtab.svg" alt="icon" width="50" height="50" >
-<img src="./icons/esup-filemanager.svg" alt="icon" width="50" height="50" >
-<img src="./icons/eurecia.svg" alt="icon" width="50" height="50" >
-<img src="./icons/FlashInfoEtab.svg" alt="icon" width="50" height="50" >
-<img src="./icons/Folios.svg" alt="icon" width="50" height="50" >
-<img src="./icons/GLC.svg" alt="icon" width="50" height="50" >
-<img src="./icons/glpi.svg" alt="icon" width="50" height="50" >
-<img src="./icons/GLPI.svg" alt="icon" width="50" height="50" >
-<img src="./icons/GRR2_CFA.svg" alt="icon" width="50" height="50" >
-<img src="./icons/GRR2_netocentre.svg" alt="icon" width="50" height="50" >
-<img src="./icons/GRR_JCoeurEleves.svg" alt="icon" width="50" height="50" >
-<img src="./icons/HelpInfo.svg" alt="icon" width="50" height="50" >
-<img src="./icons/I2Grouper-UI.svg" alt="icon" width="50" height="50" >
-<img src="./icons/infosEtoile.svg" alt="icon" width="50" height="50" >
-<img src="./icons/InstantsMetiers.svg" alt="icon" width="50" height="50" >
-<img src="./icons/Intranet.svg" alt="icon" width="50" height="50" >
-<img src="./icons/ITSM.svg" alt="icon" width="50" height="50" >
-<img src="./icons/ItsTours_VieEtudiante.svg" alt="icon" width="50" height="50" >
-<img src="./icons/LEA.svg" alt="icon" width="50" height="50" >
-<img src="./icons/LettreActualites.svg" alt="icon" width="50" height="50" >
-<img src="./icons/LiensEdutiles.svg" alt="icon" width="50" height="50" >
-<img src="./icons/LiensUtilAgri.svg" alt="icon" width="50" height="50" >
-<img src="./icons/liensUtilesCFA.svg" alt="icon" width="50" height="50" >
-<img src="./icons/Limesurvey.svg" alt="icon" width="50" height="50" >
-<img src="./icons/ListesDiffusion.svg" alt="icon" width="50" height="50" >
-<img src="./icons/Mediacentre.svg" alt="icon" width="50" height="50" >
-<img src="./icons/menuCantine.svg" alt="icon" width="50" height="50" >
-<img src="./icons/MessageAccueilWoC.svg" alt="icon" width="50" height="50" >
-<img src="./icons/MILycees.svg" alt="icon" width="50" height="50" >
-<img src="./icons/MonCDIPLCourier.svg" alt="icon" width="50" height="50" >
-<img src="./icons/MonCDI.svg" alt="icon" width="50" height="50" >
-<img src="./icons/MonDesk.svg" alt="icon" width="50" height="50" >
-<img src="./icons/MoodleMu.svg" alt="icon" width="50" height="50" >
-<img src="./icons/MSOffice.svg" alt="icon" width="50" height="50" >
-<img src="./icons/MyPads.svg" alt="icon" width="50" height="50" >
-<img src="./icons/Nextcloud.svg" alt="icon" width="50" height="50" >
-<img src="./icons/OBII.svg" alt="icon" width="50" height="50" >
-<img src="./icons/OffresStages45.svg" alt="icon" width="50" height="50" >
-<img src="./icons/OnisepServices.svg" alt="icon" width="50" height="50" >
-<img src="./icons/OwnCloud_RECIA.svg" alt="icon" width="50" height="50" >
-<img src="./icons/pearltrees.svg" alt="icon" width="50" height="50" >
-<img src="./icons/PIA.svg" alt="icon" width="50" height="50" >
-<img src="./icons/pix-externe.svg" alt="icon" width="50" height="50" >
-<img src="./icons/pix.svg" alt="icon" width="50" height="50" >
-<img src="./icons/PMB_LesCharmilles.svg" alt="icon" width="50" height="50" >
-<img src="./icons/PMB.svg" alt="icon" width="50" height="50" >
-<img src="./icons/pod.svg" alt="icon" width="50" height="50" >
-<img src="./icons/PortailArenA.svg" alt="icon" width="50" height="50" >
-<img src="./icons/projetVoltaire-ITSTours.svg" alt="icon" width="50" height="50" >
-<img src="./icons/PublicationContenus.svg" alt="icon" width="50" height="50" >
-<img src="./icons/Pydio36.svg" alt="icon" width="50" height="50" >
-<img src="./icons/RCVLextranet.svg" alt="icon" width="50" height="50" >
-<img src="./icons/RCVLformation.svg" alt="icon" width="50" height="50" >
-<img src="./icons/RCVLneeria.svg" alt="icon" width="50" height="50" >
-<img src="./icons/RCVLwebmail.svg" alt="icon" width="50" height="50" >
-<img src="./icons/referentielLogicielsColleges.svg" alt="icon" width="50" height="50" >
-<img src="./icons/RessourcesNumeriques.svg" alt="icon" width="50" height="50" >
-<img src="./icons/RessourcesOrientationLycees.svg" alt="icon" width="50" height="50" >
-<img src="./icons/RestoGest.svg" alt="icon" width="50" height="50" >
-<img src="./icons/RestoResa.svg" alt="icon" width="50" height="50" >
-<img src="./icons/RestoSuiviTarif.svg" alt="icon" width="50" height="50" >
-<img src="./icons/RestoTarif.svg" alt="icon" width="50" height="50" >
-<img src="./icons/ResumeActualitesCD37.svg" alt="icon" width="50" height="50" >
-<img src="./icons/ResumeActualitesEtab.svg" alt="icon" width="50" height="50" >
-<img src="./icons/ResumeActualitesRegion.svg" alt="icon" width="50" height="50" >
-<img src="./icons/ResumeInfosENT.svg" alt="icon" width="50" height="50" >
-<img src="./icons/RTX.svg" alt="icon" width="50" height="50" >
-<img src="./icons/SACoche.svg" alt="icon" width="50" height="50" >
-<img src="./icons/SconetNotes_chefetab.svg" alt="icon" width="50" height="50" >
-<img src="./icons/SconetNotes_peda.svg" alt="icon" width="50" height="50" >
-<img src="./icons/SconetNotes.svg" alt="icon" width="50" height="50" >
-<img src="./icons/SconetNotes_viesco.svg" alt="icon" width="50" height="50" >
-<img src="./icons/SiecleVieScolaire.svg" alt="icon" width="50" height="50" >
-<img src="./icons/SiteEtablissement.svg" alt="icon" width="50" height="50" >
-<img src="./icons/Statistiques_CFA.svg" alt="icon" width="50" height="50" >
-<img src="./icons/Statistiques.svg" alt="icon" width="50" height="50" >
-<img src="./icons/Teleservices.svg" alt="icon" width="50" height="50" >
-<img src="./icons/VideoNOCWPP.svg" alt="icon" width="50" height="50" >
-<img src="./icons/VieScolaire.svg" alt="icon" width="50" height="50" >
-<img src="./icons/WiseMapping.svg" alt="icon" width="50" height="50" >
-<img src="./icons/Yakforms.svg" alt="icon" width="50" height="50" >
-<img src="./icons/YEPS.svg" alt="icon" width="50" height="50" >
-<img src="./icons/YmagLog.svg" alt="icon" width="50" height="50" >
-<img src="./icons/Ypareo.svg" alt="icon" width="50" height="50" >
+<img src="./icons/AccesOAE_RECIA.svg" alt="AccesOAE_RECIA" title="AccesOAE_RECIA" width="50" height="50" >
+<img src="./icons/accueil-cfa.svg" alt="accueil-cfa" title="accueil-cfa" width="50" height="50" >
+<img src="./icons/accueil-clg28.svg" alt="accueil-clg28" title="accueil-clg28" width="50" height="50" >
+<img src="./icons/accueil-clg37.svg" alt="accueil-clg37" title="accueil-clg37" width="50" height="50" >
+<img src="./icons/accueil-lycees.svg" alt="accueil-lycees" title="accueil-lycees" width="50" height="50" >
+<img src="./icons/ActualitesCD37.svg" alt="ActualitesCD37" title="ActualitesCD37" width="50" height="50" >
+<img src="./icons/ActualitesCollectivite.svg" alt="ActualitesCollectivite" title="ActualitesCollectivite" width="50" height="50" >
+<img src="./icons/ActualitesDRAAF.svg" alt="ActualitesDRAAF" title="ActualitesDRAAF" width="50" height="50" >
+<img src="./icons/ActualitesEtab.svg" alt="ActualitesEtab" title="ActualitesEtab" width="50" height="50" >
+<img src="./icons/ActualitesRectorat.svg" alt="ActualitesRectorat" title="ActualitesRectorat" width="50" height="50" >
+<img src="./icons/ActualitesRegion.svg" alt="ActualitesRegion" title="ActualitesRegion" width="50" height="50" >
+<img src="./icons/AdminListesDiffusion.svg" alt="AdminListesDiffusion" title="AdminListesDiffusion" width="50" height="50" >
+<img src="./icons/AgendaKronolith.svg" alt="AgendaKronolith" title="AgendaKronolith" width="50" height="50" >
+<img src="./icons/agrilocal18.svg" alt="agrilocal18" title="agrilocal18" width="50" height="50" >
+<img src="./icons/AidePortailENT.svg" alt="AidePortailENT" title="AidePortailENT" width="50" height="50" >
+<img src="./icons/aidesInfosCFA.svg" alt="aidesInfosCFA" title="aidesInfosCFA" width="50" height="50" >
+<img src="./icons/AnnoncesRECIA.svg" alt="AnnoncesRECIA" title="AnnoncesRECIA" width="50" height="50" >
+<img src="./icons/annuaire.svg" alt="annuaire" title="annuaire" width="50" height="50" >
+<img src="./icons/CahierTexte.svg" alt="CahierTexte" title="CahierTexte" width="50" height="50" >
+<img src="./icons/calendar.svg" alt="calendar" title="calendar" width="50" height="50" >
+<img src="./icons/CAPYTALE.svg" alt="CAPYTALE" title="CAPYTALE" width="50" height="50" >
+<img src="./icons/Catalogue_OPSI.svg" alt="Catalogue_OPSI" title="Catalogue_OPSI" width="50" height="50" >
+<img src="./icons/catalogueRessources.svg" alt="catalogueRessources" title="catalogueRessources" width="50" height="50" >
+<img src="./icons/CD18extranet.svg" alt="CD18extranet" title="CD18extranet" width="50" height="50" >
+<img src="./icons/CD18outilsAgents.svg" alt="CD18outilsAgents" title="CD18outilsAgents" width="50" height="50" >
+<img src="./icons/CD18PortailUsager.svg" alt="CD18PortailUsager" title="CD18PortailUsager" width="50" height="50" >
+<img src="./icons/CDITheresePlaniol.svg" alt="CDITheresePlaniol" title="CDITheresePlaniol" width="50" height="50" >
+<img src="./icons/chat.svg" alt="chat" title="chat" width="50" height="50" >
+<img src="./icons/COS.svg" alt="COS" title="COS" width="50" height="50" >
+<img src="./icons/Corely.svg" alt="Corely" title="Corely" width="50" height="50" >
+<img src="./icons/CourrielAcademique.svg" alt="CourrielAcademique" title="CourrielAcademique" width="50" height="50" >
+<img src="./icons/CourrielEducagri.svg" alt="CourrielEducagri" title="CourrielEducagri" width="50" height="50" >
+<img src="./icons/CourrielEleves.svg" alt="CourrielEleves" title="CourrielEleves" width="50" height="50" >
+<img src="./icons/CourrielRECIA.svg" alt="CourrielRECIA" title="CourrielRECIA" width="50" height="50" >
+<img src="./icons/CPRO-STI.svg" alt="CPRO-STI" title="CPRO-STI" width="50" height="50" >
+<img src="./icons/CPRO.svg" alt="CPRO" title="CPRO" width="50" height="50" >
+<img src="./icons/DocENT.svg" alt="DocENT" title="DocENT" width="50" height="50" >
+<img src="./icons/DocumentsDRAAF.svg" alt="DocumentsDRAAF" title="DocumentsDRAAF" width="50" height="50" >
+<img src="./icons/DocumentsEtab.svg" alt="DocumentsEtab" title="DocumentsEtab" width="50" height="50" >
+<img src="./icons/DocumentsCollectivite.svg" alt="DocumentsCollectivite" title="DocumentsCollectivite" width="50" height="50" >
+<img src="./icons/DocumentsRectorat.svg" alt="DocumentsRectorat" title="DocumentsRectorat" width="50" height="50" >
+<img src="./icons/EchoSpheres.svg" alt="EchoSpheres" title="EchoSpheres" width="50" height="50" >
+<img src="./icons/EDT.svg" alt="EDT" title="EDT" width="50" height="50" >
+<img src="./icons/EducationCher.svg" alt="EducationCher" title="EducationCher" width="50" height="50" >
+<img src="./icons/EducationIndre.svg" alt="EducationIndre" title="EducationIndre" width="50" height="50" >
+<img src="./icons/EducationLoiret.svg" alt="EducationLoiret" title="EducationLoiret" width="50" height="50" >
+<img src="./icons/EducationLoirEtCher.svg" alt="EducationLoirEtCher" title="EducationLoirEtCher" width="50" height="50" >
+<img src="./icons/EducationTouraine.svg" alt="EducationTouraine" title="EducationTouraine" width="50" height="50" >
+<img src="./icons/email-preview-clg37.svg" alt="email-preview-clg37" title="email-preview-clg37" width="50" height="50" >
+<img src="./icons/email-preview-netocentre.svg" alt="email-preview-netocentre" title="email-preview-netocentre" width="50" height="50" >
+<img src="./icons/ESCO-GLC.svg" alt="ESCO-GLC" title="ESCO-GLC" width="50" height="50" >
+<img src="./icons/ESCO-MCE.svg" alt="ESCO-MCE" title="ESCO-MCE" width="50" height="50" >
+<img src="./icons/ESCO-ParamEtab.svg" alt="ESCO-ParamEtab" title="ESCO-ParamEtab" width="50" height="50" >
+<img src="./icons/esup-filemanager.svg" alt="esup-filemanager" title="esup-filemanager" width="50" height="50" >
+<img src="./icons/eurecia.svg" alt="eurecia" title="eurecia" width="50" height="50" >
+<img src="./icons/FlashInfoEtab.svg" alt="FlashInfoEtab" title="FlashInfoEtab" width="50" height="50" >
+<img src="./icons/Folios.svg" alt="Folios" title="Folios" width="50" height="50" >
+<img src="./icons/GLC.svg" alt="GLC" title="GLC" width="50" height="50" >
+<img src="./icons/glpi.svg" alt="glpi" title="glpi" width="50" height="50" >
+<img src="./icons/GLPI.svg" alt="GLPI" title="GLPI" width="50" height="50" >
+<img src="./icons/GRR2_CFA.svg" alt="GRR2_CFA" title="GRR2_CFA" width="50" height="50" >
+<img src="./icons/GRR2_netocentre.svg" alt="GRR2_netocentre" title="GRR2_netocentre" width="50" height="50" >
+<img src="./icons/GRR_JCoeurEleves.svg" alt="GRR_JCoeurEleves" title="GRR_JCoeurEleves" width="50" height="50" >
+<img src="./icons/HelpInfo.svg" alt="HelpInfo" title="HelpInfo" width="50" height="50" >
+<img src="./icons/I2Grouper-UI.svg" alt="I2Grouper-UI" title="I2Grouper-UI" width="50" height="50" >
+<img src="./icons/infosEtoile.svg" alt="infosEtoile" title="infosEtoile" width="50" height="50" >
+<img src="./icons/InstantsMetiers.svg" alt="InstantsMetiers" title="InstantsMetiers" width="50" height="50" >
+<img src="./icons/Intranet.svg" alt="Intranet" title="Intranet" width="50" height="50" >
+<img src="./icons/ITSM.svg" alt="ITSM" title="ITSM" width="50" height="50" >
+<img src="./icons/ItsTours_VieEtudiante.svg" alt="ItsTours_VieEtudiante" title="ItsTours_VieEtudiante" width="50" height="50" >
+<img src="./icons/LEA.svg" alt="LEA" title="LEA" width="50" height="50" >
+<img src="./icons/LettreActualites.svg" alt="LettreActualites" title="LettreActualites" width="50" height="50" >
+<img src="./icons/LiensEdutiles.svg" alt="LiensEdutiles" title="LiensEdutiles" width="50" height="50" >
+<img src="./icons/LiensUtilAgri.svg" alt="LiensUtilAgri" title="LiensUtilAgri" width="50" height="50" >
+<img src="./icons/liensUtilesCFA.svg" alt="liensUtilesCFA" title="liensUtilesCFA" width="50" height="50" >
+<img src="./icons/Limesurvey.svg" alt="Limesurvey" title="Limesurvey" width="50" height="50" >
+<img src="./icons/ListesDiffusion.svg" alt="ListesDiffusion" title="ListesDiffusion" width="50" height="50" >
+<img src="./icons/Mediacentre.svg" alt="Mediacentre" title="Mediacentre" width="50" height="50" >
+<img src="./icons/menuCantine.svg" alt="menuCantine" title="menuCantine" width="50" height="50" >
+<img src="./icons/MessageAccueilWoC.svg" alt="MessageAccueilWoC" title="MessageAccueilWoC" width="50" height="50" >
+<img src="./icons/MILycees.svg" alt="MILycees" title="MILycees" width="50" height="50" >
+<img src="./icons/MonCDIPLCourier.svg" alt="MonCDIPLCourier" title="MonCDIPLCourier" width="50" height="50" >
+<img src="./icons/MonCDI.svg" alt="MonCDI" title="MonCDI" width="50" height="50" >
+<img src="./icons/MonDesk.svg" alt="MonDesk" title="MonDesk" width="50" height="50" >
+<img src="./icons/MoodleMu.svg" alt="MoodleMu" title="MoodleMu" width="50" height="50" >
+<img src="./icons/MSOffice.svg" alt="MSOffice" title="MSOffice" width="50" height="50" >
+<img src="./icons/MyPads.svg" alt="MyPads" title="MyPads" width="50" height="50" >
+<img src="./icons/Nextcloud.svg" alt="Nextcloud" title="Nextcloud" width="50" height="50" >
+<img src="./icons/OBII.svg" alt="OBII" title="OBII" width="50" height="50" >
+<img src="./icons/OffresStages45.svg" alt="OffresStages45" title="OffresStages45" width="50" height="50" >
+<img src="./icons/OnisepServices.svg" alt="OnisepServices" title="OnisepServices" width="50" height="50" >
+<img src="./icons/OwnCloud_RECIA.svg" alt="OwnCloud_RECIA" title="OwnCloud_RECIA" width="50" height="50" >
+<img src="./icons/pearltrees.svg" alt="pearltrees" title="pearltrees" width="50" height="50" >
+<img src="./icons/PIA.svg" alt="PIA" title="PIA" width="50" height="50" >
+<img src="./icons/pix-externe.svg" alt="pix-externe" title="pix-externe" width="50" height="50" >
+<img src="./icons/pix.svg" alt="pix" title="pix" width="50" height="50" >
+<img src="./icons/PMB_LesCharmilles.svg" alt="PMB_LesCharmilles" title="PMB_LesCharmilles" width="50" height="50" >
+<img src="./icons/PMB.svg" alt="PMB" title="PMB" width="50" height="50" >
+<img src="./icons/pod.svg" alt="pod" title="pod" width="50" height="50" >
+<img src="./icons/PortailArenA.svg" alt="PortailArenA" title="PortailArenA" width="50" height="50" >
+<img src="./icons/projetVoltaire-ITSTours.svg" alt="projetVoltaire-ITSTours" title="projetVoltaire-ITSTours" width="50" height="50" >
+<img src="./icons/PublicationContenus.svg" alt="PublicationContenus" title="PublicationContenus" width="50" height="50" >
+<img src="./icons/Pydio36.svg" alt="Pydio36" title="Pydio36" width="50" height="50" >
+<img src="./icons/RCVLextranet.svg" alt="RCVLextranet" title="RCVLextranet" width="50" height="50" >
+<img src="./icons/RCVLformation.svg" alt="RCVLformation" title="RCVLformation" width="50" height="50" >
+<img src="./icons/RCVLneeria.svg" alt="RCVLneeria" title="RCVLneeria" width="50" height="50" >
+<img src="./icons/RCVLwebmail.svg" alt="RCVLwebmail" title="RCVLwebmail" width="50" height="50" >
+<img src="./icons/referentielLogicielsColleges.svg" alt="referentielLogicielsColleges" title="referentielLogicielsColleges" width="50" height="50" >
+<img src="./icons/RessourcesNumeriques.svg" alt="RessourcesNumeriques" title="RessourcesNumeriques" width="50" height="50" >
+<img src="./icons/RessourcesOrientationLycees.svg" alt="RessourcesOrientationLycees" title="RessourcesOrientationLycees" width="50" height="50" >
+<img src="./icons/RestoGest.svg" alt="RestoGest" title="RestoGest" width="50" height="50" >
+<img src="./icons/RestoResa.svg" alt="RestoResa" title="RestoResa" width="50" height="50" >
+<img src="./icons/RestoSuiviTarif.svg" alt="RestoSuiviTarif" title="RestoSuiviTarif" width="50" height="50" >
+<img src="./icons/RestoTarif.svg" alt="RestoTarif" title="RestoTarif" width="50" height="50" >
+<img src="./icons/ResumeActualitesCD37.svg" alt="ResumeActualitesCD37" title="ResumeActualitesCD37" width="50" height="50" >
+<img src="./icons/ResumeActualitesEtab.svg" alt="ResumeActualitesEtab" title="ResumeActualitesEtab" width="50" height="50" >
+<img src="./icons/ResumeActualitesRegion.svg" alt="ResumeActualitesRegion" title="ResumeActualitesRegion" width="50" height="50" >
+<img src="./icons/ResumeInfosENT.svg" alt="ResumeInfosENT" title="ResumeInfosENT" width="50" height="50" >
+<img src="./icons/RTX.svg" alt="RTX" title="RTX" width="50" height="50" >
+<img src="./icons/SACoche.svg" alt="SACoche" title="SACoche" width="50" height="50" >
+<img src="./icons/SconetNotes_chefetab.svg" alt="SconetNotes_chefetab" title="SconetNotes_chefetab" width="50" height="50" >
+<img src="./icons/SconetNotes_peda.svg" alt="SconetNotes_peda" title="SconetNotes_peda" width="50" height="50" >
+<img src="./icons/SconetNotes.svg" alt="SconetNotes" title="SconetNotes" width="50" height="50" >
+<img src="./icons/SconetNotes_viesco.svg" alt="SconetNotes_viesco" title="SconetNotes_viesco" width="50" height="50" >
+<img src="./icons/SiecleVieScolaire.svg" alt="SiecleVieScolaire" title="SiecleVieScolaire" width="50" height="50" >
+<img src="./icons/SiteEtablissement.svg" alt="SiteEtablissement" title="SiteEtablissement" width="50" height="50" >
+<img src="./icons/Statistiques_CFA.svg" alt="Statistiques_CFA" title="Statistiques_CFA" width="50" height="50" >
+<img src="./icons/Statistiques.svg" alt="Statistiques" title="Statistiques" width="50" height="50" >
+<img src="./icons/Teleservices.svg" alt="Teleservices" title="Teleservices" width="50" height="50" >
+<img src="./icons/VideoNOCWPP.svg" alt="VideoNOCWPP" title="VideoNOCWPP" width="50" height="50" >
+<img src="./icons/VieScolaire.svg" alt="VieScolaire" title="VieScolaire" width="50" height="50" >
+<img src="./icons/WiseMapping.svg" alt="WiseMapping" title="WiseMapping" width="50" height="50" >
+<img src="./icons/Yakforms.svg" alt="Yakforms" title="Yakforms" width="50" height="50" >
+<img src="./icons/YEPS.svg" alt="YEPS" title="YEPS" width="50" height="50" >
+<img src="./icons/YmagLog.svg" alt="YmagLog" title="YmagLog" width="50" height="50" >
+<img src="./icons/Ypareo.svg" alt="Ypareo" title="Ypareo" width="50" height="50" >
