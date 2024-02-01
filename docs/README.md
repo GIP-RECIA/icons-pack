@@ -53,7 +53,6 @@
 <img src="./icons/ESCO-GLC.svg" alt="icon" width="50" height="50" >
 <img src="./icons/ESCO-MCE.svg" alt="icon" width="50" height="50" >
 <img src="./icons/ESCO-ParamEtab.svg" alt="icon" width="50" height="50" >
-<img src="./icons/espacelUsagerCD18.svg" alt="icon" width="50" height="50" >
 <img src="./icons/esup-filemanager.svg" alt="icon" width="50" height="50" >
 <img src="./icons/eurecia.svg" alt="icon" width="50" height="50" >
 <img src="./icons/FlashInfoEtab.svg" alt="icon" width="50" height="50" >
