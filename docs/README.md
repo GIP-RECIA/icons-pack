@@ -103,10 +103,6 @@
 <img src="./icons/projetVoltaire-ITSTours.svg" alt="projetVoltaire-ITSTours" title="projetVoltaire-ITSTours" width="50" height="50" >
 <img src="./icons/PublicationContenus.svg" alt="PublicationContenus" title="PublicationContenus" width="50" height="50" >
 <img src="./icons/Pydio36.svg" alt="Pydio36" title="Pydio36" width="50" height="50" >
-<img src="./icons/RCVLextranet.svg" alt="RCVLextranet" title="RCVLextranet" width="50" height="50" >
-<img src="./icons/RCVLformation.svg" alt="RCVLformation" title="RCVLformation" width="50" height="50" >
-<img src="./icons/RCVLneeria.svg" alt="RCVLneeria" title="RCVLneeria" width="50" height="50" >
-<img src="./icons/RCVLwebmail.svg" alt="RCVLwebmail" title="RCVLwebmail" width="50" height="50" >
 <img src="./icons/referentielLogicielsColleges.svg" alt="referentielLogicielsColleges" title="referentielLogicielsColleges" width="50" height="50" >
 <img src="./icons/RessourcesNumeriques.svg" alt="RessourcesNumeriques" title="RessourcesNumeriques" width="50" height="50" >
 <img src="./icons/RessourcesOrientationLycees.svg" alt="RessourcesOrientationLycees" title="RessourcesOrientationLycees" width="50" height="50" >
