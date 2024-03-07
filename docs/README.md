@@ -128,6 +128,7 @@
 <img src="./icons/VideoNOCWPP.svg" alt="VideoNOCWPP" title="VideoNOCWPP" width="50" height="50" >
 <img src="./icons/VieScolaire.svg" alt="VieScolaire" title="VieScolaire" width="50" height="50" >
 <img src="./icons/WiseMapping.svg" alt="WiseMapping" title="WiseMapping" width="50" height="50" >
+<img src="./icons/XWIKI.svg" alt="XWiki" title="XWiki" width="50" height="50" >
 <img src="./icons/Yakforms.svg" alt="Yakforms" title="Yakforms" width="50" height="50" >
 <img src="./icons/YEPS.svg" alt="YEPS" title="YEPS" width="50" height="50" >
 <img src="./icons/YmagLog.svg" alt="YmagLog" title="YmagLog" width="50" height="50" >
