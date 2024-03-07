@@ -115,6 +115,7 @@
 ![](./portlet_icons/VideoNOCWPP.svg)
 ![](./portlet_icons/VieScolaire.svg)
 ![](./portlet_icons/WiseMapping.svg)
+![](./portlet_icons/XWIKI.svg)
 ![](./portlet_icons/Yakforms.svg)
 ![](./portlet_icons/YEPS.svg)
 ![](./portlet_icons/YmagLog.svg)
