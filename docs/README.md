@@ -92,6 +92,7 @@
 <img src="./icons/OffresStages45.svg" alt="OffresStages45" title="OffresStages45" width="50" height="50" >
 <img src="./icons/OnisepServices.svg" alt="OnisepServices" title="OnisepServices" width="50" height="50" >
 <img src="./icons/OwnCloud_RECIA.svg" alt="OwnCloud_RECIA" title="OwnCloud_RECIA" width="50" height="50" >
+<img src="./icons/PDFOnline.svg" alt="PDFOnline" title="PDFOnline" width="50" height="50" >
 <img src="./icons/pearltrees.svg" alt="pearltrees" title="pearltrees" width="50" height="50" >
 <img src="./icons/PIA.svg" alt="PIA" title="PIA" width="50" height="50" >
 <img src="./icons/pix-externe.svg" alt="pix-externe" title="pix-externe" width="50" height="50" >
@@ -125,6 +126,7 @@
 <img src="./icons/Statistiques_CFA.svg" alt="Statistiques_CFA" title="Statistiques_CFA" width="50" height="50" >
 <img src="./icons/Statistiques.svg" alt="Statistiques" title="Statistiques" width="50" height="50" >
 <img src="./icons/Teleservices.svg" alt="Teleservices" title="Teleservices" width="50" height="50" >
+<img src="./icons/tlDraw.svg" alt="tlDraw" title="tlDraw" width="50" height="50" >
 <img src="./icons/VideoNOCWPP.svg" alt="VideoNOCWPP" title="VideoNOCWPP" width="50" height="50" >
 <img src="./icons/VieScolaire.svg" alt="VieScolaire" title="VieScolaire" width="50" height="50" >
 <img src="./icons/WiseMapping.svg" alt="WiseMapping" title="WiseMapping" width="50" height="50" >
