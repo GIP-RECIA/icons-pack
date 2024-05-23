@@ -1,5 +1,19 @@
 # Liste des icônes disponibles
 
+## Procédure d'intégration d'une nouvelle icône
+
+NB: Les icônes doivent être nommées avec le format CamelCase. Les noms de doivent pas contenir de trait d'union (sinon prévoir une migration pour les icônes historiques). Aussi tant que possible le nom doit correspondre au fname qui sera/est déclaré dans le portail, mais également le nom devra commencer par une majuscule.
+
+1. Rebaser son repository local avec la branche distante github.
+2. Réaliser un seul commit par icône à ajouter.
+3. Déposer l'icône dans le dossier `portlets_icons`
+4. Ajouter l'icône à la prévisualition dans le README.md `![](./portlet_icons/$fname.svg)`, veiller à respecter l'ordre alphabétique.
+5. Recopier cette même icône dans le dossier `docs/icons`
+6. Ajouter l'icône à la prévisualition dans le `docs/README.md` `<img src="./icons/$fname.svg" alt="$fname" title="$fname" width="50" height="50" >
+7. Ajouter dans un seul commit les fichiers ajoutés et modifiés.
+
+## Prévisualisation
+
 ![](./portlet_icons/AccesOAE_RECIA.svg)
 ![](./portlet_icons/accueil-cfa.svg)
 ![](./portlet_icons/accueil-clg37.svg)
