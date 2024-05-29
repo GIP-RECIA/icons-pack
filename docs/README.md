@@ -24,6 +24,7 @@
 <img src="./icons/Catalogue_OPSI.svg" alt="Catalogue_OPSI" title="Catalogue_OPSI" width="50" height="50" >
 <img src="./icons/catalogueRessources.svg" alt="catalogueRessources" title="catalogueRessources" width="50" height="50" >
 <img src="./icons/CD18extranet.svg" alt="CD18extranet" title="CD18extranet" width="50" height="50" >
+<img src="./icons/CD18Numeritheque.svg" alt="CD18Numeritheque" title="CD18Numeritheque" width="50" height="50" >
 <img src="./icons/CD18outilsAgents.svg" alt="CD18outilsAgents" title="CD18outilsAgents" width="50" height="50" >
 <img src="./icons/CD18PortailUsager.svg" alt="CD18PortailUsager" title="CD18PortailUsager" width="50" height="50" >
 <img src="./icons/CDITheresePlaniol.svg" alt="CDITheresePlaniol" title="CDITheresePlaniol" width="50" height="50" >
