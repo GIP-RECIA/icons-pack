@@ -34,7 +34,7 @@ NB: Les icônes doivent être nommées avec le format CamelCase. Les noms de doi
 ![](./portlet_icons/CAPYTALE.svg)
 ![](./portlet_icons/Catalogue_OPSI.svg)
 ![](./portlet_icons/catalogueRessources.svg)
-![](./portlet_icons/Numerithèque page ENT.svg)
+![](./portlet_icons/CD18Numeritheque.svg)
 ![](./portlet_icons/CD18PortailUsager.svg)
 ![](./portlet_icons/CD18outilsAgents.svg)
 ![](./portlet_icons/CDITheresePlaniol.svg)
