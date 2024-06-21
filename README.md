@@ -132,6 +132,7 @@ NB: Les icônes doivent être nommées avec le format CamelCase. Les noms de doi
 ![](./portlet_icons/VideoNOCWPP.svg)
 ![](./portlet_icons/VieScolaire.svg)
 ![](./portlet_icons/WiseMapping.svg)
+![](./portlet_icons/Wims.svg)
 ![](./portlet_icons/XWIKI.svg)
 ![](./portlet_icons/Yakforms.svg)
 ![](./portlet_icons/YEPS.svg)
