@@ -49,6 +49,7 @@
 <img src="./icons/EducationLoiret.svg" alt="EducationLoiret" title="EducationLoiret" width="50" height="50" >
 <img src="./icons/EducationLoirEtCher.svg" alt="EducationLoirEtCher" title="EducationLoirEtCher" width="50" height="50" >
 <img src="./icons/EducationTouraine.svg" alt="EducationTouraine" title="EducationTouraine" width="50" height="50" >
+<img src="./icons/Elea.svg" alt="Elea" title="Elea" width="50" height="50" >
 <img src="./icons/email-preview-clg37.svg" alt="email-preview-clg37" title="email-preview-clg37" width="50" height="50" >
 <img src="./icons/email-preview-netocentre.svg" alt="email-preview-netocentre" title="email-preview-netocentre" width="50" height="50" >
 <img src="./icons/ESCO-GLC.svg" alt="ESCO-GLC" title="ESCO-GLC" width="50" height="50" >
