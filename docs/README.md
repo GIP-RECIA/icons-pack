@@ -2,6 +2,7 @@
 
 <img src="./icons/AccesOAE_RECIA.svg" alt="AccesOAE_RECIA" title="AccesOAE_RECIA" width="50" height="50" >
 <img src="./icons/accueil-cfa.svg" alt="accueil-cfa" title="accueil-cfa" width="50" height="50" >
+<img src="./icons/accueil-clg18.svg" alt="accueil-clg18" title="accueil-clg18" width="50" height="50" >
 <img src="./icons/accueil-clg28.svg" alt="accueil-clg28" title="accueil-clg28" width="50" height="50" >
 <img src="./icons/accueil-clg37.svg" alt="accueil-clg37" title="accueil-clg37" width="50" height="50" >
 <img src="./icons/accueil-lycees.svg" alt="accueil-lycees" title="accueil-lycees" width="50" height="50" >

@@ -16,6 +16,8 @@ NB: Les icônes doivent être nommées avec le format CamelCase. Les noms de doi
 
 ![](./portlet_icons/AccesOAE_RECIA.svg)
 ![](./portlet_icons/accueil-cfa.svg)
+![](./portlet_icons/accueil-clg18.svg)
+![](./portlet_icons/accueil-clg28.svg)
 ![](./portlet_icons/accueil-clg37.svg)
 ![](./portlet_icons/accueil-lycees.svg)
 ![](./portlet_icons/ActualitesCD37.svg)
