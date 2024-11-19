@@ -58,6 +58,7 @@ NB: Les icônes doivent être nommées avec le format CamelCase. Les noms de doi
 ![](./portlet_icons/EducationIndre.svg)
 ![](./portlet_icons/EducationLoiret.svg)
 ![](./portlet_icons/EducationTouraine.svg)
+![](./portlet_icons/edumalin.svg)
 ![](./portlet_icons/Elea.svg)
 ![](./portlet_icons/email-preview-clg37.svg)
 ![](./portlet_icons/email-preview-netocentre.svg)
