@@ -91,6 +91,7 @@ NB: Les icônes doivent être nommées avec le format CamelCase. Les noms de doi
 ![](./portlet_icons/menuCantine.svg)
 ![](./portlet_icons/MessageAccueilWoC.svg)
 ![](./portlet_icons/MILycees.svg)
+![](./portlet_icons/MonCDIAKahn.svg)
 ![](./portlet_icons/MonCDIPLCourier.svg)
 ![](./portlet_icons/MonCDI.svg)
 ![](./portlet_icons/MonDesk.svg)

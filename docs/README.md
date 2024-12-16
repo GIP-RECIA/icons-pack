@@ -85,6 +85,7 @@
 <img src="./icons/menuCantine.svg" alt="menuCantine" title="menuCantine" width="50" height="50" >
 <img src="./icons/MessageAccueilWoC.svg" alt="MessageAccueilWoC" title="MessageAccueilWoC" width="50" height="50" >
 <img src="./icons/MILycees.svg" alt="MILycees" title="MILycees" width="50" height="50" >
+<img src="./icons/MonCDIAKahn.svg" alt="MonCDIAKahn" title="MonCDIAKahn" width="50" height="50" >
 <img src="./icons/MonCDIPLCourier.svg" alt="MonCDIPLCourier" title="MonCDIPLCourier" width="50" height="50" >
 <img src="./icons/MonCDI.svg" alt="MonCDI" title="MonCDI" width="50" height="50" >
 <img src="./icons/MonDesk.svg" alt="MonDesk" title="MonDesk" width="50" height="50" >
