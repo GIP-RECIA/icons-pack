@@ -59,6 +59,8 @@
 <img src="./icons/ESCO-ParamEtab.svg" alt="ESCO-ParamEtab" title="ESCO-ParamEtab" width="50" height="50" >
 <img src="./icons/esup-filemanager.svg" alt="esup-filemanager" title="esup-filemanager" width="50" height="50" >
 <img src="./icons/eurecia.svg" alt="eurecia" title="eurecia" width="50" height="50" >
+<img src="./icons/Evento.svg" alt="Evento" title="Evento" width="50" height="50" >
+<img src="./icons/FileSender.svg" alt="FileSender" title="FileSender" width="50" height="50" >
 <img src="./icons/FlashInfoEtab.svg" alt="FlashInfoEtab" title="FlashInfoEtab" width="50" height="50" >
 <img src="./icons/Folios.svg" alt="Folios" title="Folios" width="50" height="50" >
 <img src="./icons/GLC.svg" alt="GLC" title="GLC" width="50" height="50" >
