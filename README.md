@@ -115,6 +115,7 @@ NB: Les icônes doivent être nommées avec le format CamelCase. Les noms de doi
 ![](./portlet_icons/projetVoltaire-ITSTours.svg)
 ![](./portlet_icons/PublicationContenus.svg)
 ![](./portlet_icons/Pydio36.svg)
+![](./portlet_icons/RessourcesDiffusables.svg)
 ![](./portlet_icons/RessourcesNumeriques.svg)
 ![](./portlet_icons/RessourcesOrientationLycees.svg)
 ![](./portlet_icons/RestoGest.svg)

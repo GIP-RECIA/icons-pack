@@ -112,6 +112,7 @@
 <img src="./icons/PublicationContenus.svg" alt="PublicationContenus" title="PublicationContenus" width="50" height="50" >
 <img src="./icons/Pydio36.svg" alt="Pydio36" title="Pydio36" width="50" height="50" >
 <img src="./icons/referentielLogicielsColleges.svg" alt="referentielLogicielsColleges" title="referentielLogicielsColleges" width="50" height="50" >
+<img src="./icons/RessourcesDiffusables.svg" alt="RessourcesDiffusables" title="RessourcesDiffusables" width="50" height="50" >
 <img src="./icons/RessourcesNumeriques.svg" alt="RessourcesNumeriques" title="RessourcesNumeriques" width="50" height="50" >
 <img src="./icons/RessourcesOrientationLycees.svg" alt="RessourcesOrientationLycees" title="RessourcesOrientationLycees" width="50" height="50" >
 <img src="./icons/RestoGest.svg" alt="RestoGest" title="RestoGest" width="50" height="50" >
