@@ -130,6 +130,7 @@
 <img src="./icons/SconetNotes.svg" alt="SconetNotes" title="SconetNotes" width="50" height="50" >
 <img src="./icons/SconetNotes_viesco.svg" alt="SconetNotes_viesco" title="SconetNotes_viesco" width="50" height="50" >
 <img src="./icons/SiecleVieScolaire.svg" alt="SiecleVieScolaire" title="SiecleVieScolaire" width="50" height="50" >
+<img src="./icons/SiteDRTIC.svg" alt="SiteEtablissement" title="SiteEtablissement" width="50" height="50" >
 <img src="./icons/SiteEtablissement.svg" alt="SiteEtablissement" title="SiteEtablissement" width="50" height="50" >
 <img src="./icons/Statistiques_CFA.svg" alt="Statistiques_CFA" title="Statistiques_CFA" width="50" height="50" >
 <img src="./icons/Statistiques.svg" alt="Statistiques" title="Statistiques" width="50" height="50" >

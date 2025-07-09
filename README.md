@@ -132,6 +132,7 @@ NB: Les icônes doivent être nommées avec le format CamelCase. Les noms de doi
 ![](./portlet_icons/SconetNotes.svg)
 ![](./portlet_icons/SconetNotes_viesco.svg)
 ![](./portlet_icons/SiecleVieScolaire.svg)
+![](./portlet_icons/SiteDRTIC.svg)
 ![](./portlet_icons/SiteEtablissement.svg)
 ![](./portlet_icons/Statistiques_CFA.svg)
 ![](./portlet_icons/Statistiques.svg)
