@@ -109,6 +109,7 @@
 <img src="./icons/pod.svg" alt="pod" title="pod" width="50" height="50" >
 <img src="./icons/PortailArenA.svg" alt="PortailArenA" title="PortailArenA" width="50" height="50" >
 <img src="./icons/projetVoltaire-ITSTours.svg" alt="projetVoltaire-ITSTours" title="projetVoltaire-ITSTours" width="50" height="50" >
+<img src="./icons/PRONOTE.svg" alt="PRONOTE" title="PRONOTE" width="50" height="50" >
 <img src="./icons/PublicationContenus.svg" alt="PublicationContenus" title="PublicationContenus" width="50" height="50" >
 <img src="./icons/Pydio36.svg" alt="Pydio36" title="Pydio36" width="50" height="50" >
 <img src="./icons/referentielLogicielsColleges.svg" alt="referentielLogicielsColleges" title="referentielLogicielsColleges" width="50" height="50" >

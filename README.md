@@ -113,6 +113,7 @@ NB: Les icônes doivent être nommées avec le format CamelCase. Les noms de doi
 ![](./portlet_icons/pod.svg)
 ![](./portlet_icons/PortailArenA.svg)
 ![](./portlet_icons/projetVoltaire-ITSTours.svg)
+![](./portlet_icons/PRONOTE.svg)
 ![](./portlet_icons/PublicationContenus.svg)
 ![](./portlet_icons/Pydio36.svg)
 ![](./portlet_icons/RessourcesDiffusables.svg)
