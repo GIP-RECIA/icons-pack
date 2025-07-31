@@ -1,62 +1,8 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   version="1.1"
-   id="livret-apprenti-elec-2"
-   x="0px"
-   y="0px"
-   viewBox="0 0 96 96"
-   style="enable-background:new 0 0 96 96;"
-   xml:space="preserve"
-   sodipodi:docname="Yakforms.svg"
-   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"><metadata
-   id="metadata11"><rdf:RDF><cc:Work
-       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
-   id="defs9" /><sodipodi:namedview
-   pagecolor="#ffffff"
-   bordercolor="#666666"
-   borderopacity="1"
-   objecttolerance="10"
-   gridtolerance="10"
-   guidetolerance="10"
-   inkscape:pageopacity="0"
-   inkscape:pageshadow="2"
-   inkscape:window-width="2504"
-   inkscape:window-height="1376"
-   id="namedview7"
-   showgrid="false"
-   inkscape:zoom="2.4583333"
-   inkscape:cx="48"
-   inkscape:cy="48"
-   inkscape:window-x="1920"
-   inkscape:window-y="27"
-   inkscape:window-maximized="1"
-   inkscape:current-layer="livret-apprenti-elec-2" />
-<style
-   type="text/css"
-   id="style2">
-	.st0{fill:#FFA726;}
-	.st1{fill:#FFFFFF;}
-</style>
-<rect
-   id="bg"
-   x="0.1"
-   y="0.1"
-   class="st0"
-   width="95.9"
-   height="95.9"
-   style="fill:#66bb6a;fill-opacity:1" />
-<path
-   id="icone"
-   class="st1"
-   d="M24.4,28.6h17.1v17.1H24.4V28.6 M30.2,34.3V40h5.7v-5.7H30.2 M47.3,34.3h28.5V40H47.3V34.3   M47.3,57.2h28.5v5.7H47.3V57.2 M30.2,71.5l-10-10l4-4l6,5.9l13.1-13.1l4,4L30.2,71.5z" />
+<svg viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+	<path d="M31.9647 20C30.8616 20 29.9674 19.1058 29.9674 18.0027V14H9.99477V40H29.9674V37.9973C29.9674 36.8942 30.8616 36 31.9647 36C33.0677 36 33.9619 36.8942 33.9619 37.9973V40C33.9619 42.2091 32.1711 44 29.9619 44H9.99477C7.93573 44 6.00024 41.9766 6.00024 40V14C6.00024 12.0234 7.93573 10 9.99477 10H29.9674C31.9647 10 33.9619 12.0234 33.9619 14V18.0027C33.9619 19.1058 33.0677 20 31.9647 20Z" fill="currentColor"/>
+	<rect x="2" y="-2" width="7.98358" height="6" rx="2" transform="matrix(1 0 0 -1 13.9893 10)" stroke="currentColor" stroke-width="4" fill="none"/>
+	<path d="M15.9095 20L23.8986 20" stroke="currentColor" stroke-width="4" stroke-linecap="round" fill="none"/>
+	<path d="M24.1651 29.1162L27.8795 35.1577L27.0116 35.6283C26.5557 35.8754 26.0379 36.0037 25.5115 35.9999L21.4981 35.971C20.3709 35.9629 19.6682 34.82 20.2243 33.8992L22.2044 30.6209C22.4641 30.1909 22.8413 29.8339 23.2972 29.5868L24.1651 29.1162Z" fill="currentColor"/>
+	<path d="M37.3805 24.2266C38.2158 23.7737 39.2218 24.0366 39.7076 24.6621L39.7975 24.792C40.1644 25.3888 40.0331 26.1951 39.3356 26.6621L39.1891 26.751L28.5905 32.4961L26.9752 29.8672L37.3805 24.2266Z" stroke="currentColor" stroke-width="4" fill="none"/>
+	<path d="M15.9095 28H17.9068" stroke="currentColor" stroke-width="4" stroke-linecap="round" fill="none"/>
 </svg>
