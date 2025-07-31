@@ -1,4 +1,4 @@
-<svg viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg id="icone" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
 	<path d="M38 16.1924L38 40C38 41.1046 37.1046 42 36 42L12 42C10.8954 42 10 41.1046 10 40L10 8C10 6.89543 10.8954 6 12 6L28.3027 6C28.786 6 29.2505 6.17483 29.6123 6.48828L29.7607 6.63086L37.458 14.8232C37.8063 15.194 37.9999 15.6837 38 16.1924Z" stroke="currentColor" stroke-width="4" fill="none"/>
 	<path d="M28 6V12C28 14.2091 29.7909 16 32 16H38" stroke="currentColor" stroke-width="4" fill="none"/>
 	<path d="M24 20L24 32" stroke="currentColor" stroke-width="4" stroke-linecap="round" fill="none"/>

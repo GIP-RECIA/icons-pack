@@ -1,4 +1,4 @@
-<svg viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg id="icone" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
 	<path d="M31.9647 20C30.8616 20 29.9674 19.1058 29.9674 18.0027V14H9.99477V40H29.9674V37.9973C29.9674 36.8942 30.8616 36 31.9647 36C33.0677 36 33.9619 36.8942 33.9619 37.9973V40C33.9619 42.2091 32.1711 44 29.9619 44H9.99477C7.93573 44 6.00024 41.9766 6.00024 40V14C6.00024 12.0234 7.93573 10 9.99477 10H29.9674C31.9647 10 33.9619 12.0234 33.9619 14V18.0027C33.9619 19.1058 33.0677 20 31.9647 20Z" fill="currentColor"/>
 	<rect x="2" y="-2" width="7.98358" height="6" rx="2" transform="matrix(1 0 0 -1 13.9893 10)" stroke="currentColor" stroke-width="4" fill="none"/>
 	<path d="M15.9095 20L23.8986 20" stroke="currentColor" stroke-width="4" stroke-linecap="round" fill="none"/>
