@@ -1,13 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="actu-default" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
-	 y="0px" viewBox="0 0 96 96" style="enable-background:new 0 0 96 96;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill:#EC407A;}
-	.st1{fill:#FFFFFF;}
-</style>
-<rect id="bg" x="0.1" y="0.1" class="st0" width="95.9" height="95.9"/>
-<path id="icone" class="st1" d="M67.9,45.6H28.3v-7.4h39.6 M67.9,55.5H50.6v-4.9h17.3 M67.9,65.4H50.6v-5h17.3 M45.6,65.4H28.3V50.5
-	h17.3 M68.7,29.9l-4.1-4.1l-4.1,4.1l-4.1-4.1l-4.1,4.1l-4.1-4.1L44,29.9l-4.1-4.1l-4.1,4.1l-4.1-4.1l-4.1,4.1l-4.1-4.1v39.6
-	c0,2.7,2.2,4.9,5,4.9h39.6c2.7,0,4.9-2.2,4.9-4.9V25.8L68.7,29.9z"/>
+<svg id="icone" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M9.90921 13C9.40714 13 9.00012 13.4477 9.00012 14C9.00012 14.5523 9.40714 15 9.90921 15H18.091C18.5931 15 19.0001 14.5523 19.0001 14C19.0001 13.4477 18.5931 13 18.091 13H9.90921Z" fill="currentColor"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M9.90921 17C9.40714 17 9.00012 17.4477 9.00012 18C9.00012 18.5523 9.40714 19 9.90921 19H18.091C18.5931 19 19.0001 18.5523 19.0001 18C19.0001 17.4477 18.5931 17 18.091 17H9.90921Z" fill="currentColor"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M9.00012 6C9.00012 5.44772 9.44784 5 10.0001 5H13.0001C13.5524 5 14.0001 5.44772 14.0001 6V10C14.0001 10.5523 13.5524 11 13.0001 11H10.0001C9.44784 11 9.00012 10.5523 9.00012 10V6Z" fill="currentColor"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M16.0001 9C15.4478 9 15.0001 9.44772 15.0001 10C15.0001 10.5523 15.4478 11 16.0001 11H18.0001C18.5524 11 19.0001 10.5523 19.0001 10C19.0001 9.44772 18.5524 9 18.0001 9H16.0001Z" fill="currentColor"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M16.0001 5C15.4478 5 15.0001 5.44772 15.0001 6C15.0001 6.55228 15.4478 7 16.0001 7H18.0001C18.5524 7 19.0001 6.55228 19.0001 6C19.0001 5.44772 18.5524 5 18.0001 5L16.0001 5Z" fill="currentColor"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M5.00012 4V6H3C1.89543 6 1 6.89543 1 8V20C1 21.6569 2.34327 23 4.00012 23H20.0001C21.5904 23 23.0003 21.6569 23.0003 20V4C23.0003 2.34315 21.5904 1 20.0001 1H8.00012C6.40983 1 5.00012 2.34315 5.00012 4ZM5.00012 9.27273L5 8H3V20C3 20.5522 3.44789 20.9999 4.00012 21C4.55241 21 5 20.5523 5 20L5.00012 9.27273ZM7 6V9.27273V21H21.0001V4V3H7.00012V4L7 6Z" fill="currentColor"/>
 </svg>

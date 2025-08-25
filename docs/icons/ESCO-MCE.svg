@@ -1,14 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="mce-1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 96 96" style="enable-background:new 0 0 96 96;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill:#66BB6A;}
-	.st1{fill:#FFFFFF;}
-</style>
-<rect id="bg" x="0.1" y="0.1" class="st0" width="95.9" height="95.9"/>
-<path id="icone" class="st1" d="M26,27.6h44.2c2.3,0,4.4,2.2,4.4,4.5v31.8c0,2.4-2.1,4.5-4.4,4.5H26c-2.3,0-4.4-2.2-4.4-4.5V32.1
-	C21.6,29.8,23.7,27.6,26,27.6 M52.5,34.4v2.3h17.7v-2.3H52.5 M52.5,39v2.3h16.6h1.1V39H52.5 M52.5,43.5v2.3H68v-2.3H52.5 M39.3,52.4
-	c-4.4,0-13.2,2.5-13.2,7v2.3h26.5v-2.3C52.5,54.9,43.7,52.4,39.3,52.4 M39.3,34.4c-3.7,0-6.6,3.1-6.6,6.8c0,3.8,3,6.8,6.6,6.8
-	c3.7,0,6.6-3.1,6.6-6.8C45.9,37.5,42.9,34.4,39.3,34.4z"/>
+<svg id="icone" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M20 4C21.1046 4 22 4.89543 22 6V12C22 12.5523 21.5523 13 21 13C20.4477 13 20 12.5523 20 12V6H4V18H7C7.55228 18 8 18.4477 8 19C8 19.5523 7.55228 20 7 20H4C2.89543 20 2 19.1046 2 18V6C2 4.89543 2.89543 4 4 4H20Z" fill="currentColor"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M19 14C20.6569 14 22 15.3431 22 17V19C22 19.5523 21.5523 20 21 20H11L10.8975 19.9951C10.3933 19.9438 10 19.5177 10 19V17C10 15.3431 11.3431 14 13 14H19ZM13 16C12.4477 16 12 16.4477 12 17V18H20V17C20 16.4477 19.5523 16 19 16H13Z" fill="currentColor"/>
+<path d="M9 12C9.55228 12 10 12.4477 10 13C10 13.5523 9.55228 14 9 14H7C6.44772 14 6 13.5523 6 13C6 12.4477 6.44772 12 7 12H9Z" fill="currentColor"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M16 7C17.6569 7 19 8.34315 19 10C19 11.6569 17.6569 13 16 13C14.3431 13 13 11.6569 13 10C13 8.34315 14.3431 7 16 7ZM16 9C15.4477 9 15 9.44772 15 10C15 10.5523 15.4477 11 16 11C16.5523 11 17 10.5523 17 10C17 9.44772 16.5523 9 16 9Z" fill="currentColor"/>
+<path d="M10 8C10.5523 8 11 8.44772 11 9C11 9.55228 10.5523 10 10 10H7C6.44772 10 6 9.55228 6 9C6 8.44772 6.44772 8 7 8H10Z" fill="currentColor"/>
 </svg>

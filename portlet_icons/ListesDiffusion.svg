@@ -1,7 +1,6 @@
-<svg id="icone" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
-	<path d="M26 28H42" stroke="currentColor" stroke-width="4" stroke-linecap="round" fill="none"/>
-	<path d="M26 34H42" stroke="currentColor" stroke-width="4" stroke-linecap="round" fill="none"/>
-	<path d="M26 40H42" stroke="currentColor" stroke-width="4" stroke-linecap="round" fill="none"/>
-	<path d="M6 8L21.5442 20.09C22.9887 21.2134 25.0113 21.2134 26.4558 20.09L42 8" stroke="currentColor" stroke-width="4" fill="none"/>
-	<path fill-rule="evenodd" clip-rule="evenodd" d="M8 10H40V22C40 23.1046 40.8954 24 42 24C43.1046 24 44 23.1046 44 22V10C44 7.79086 42.2091 6 40 6H8C5.79086 6 4 7.79086 4 10V34C4 36.2091 5.79086 38 8 38H20C21.1046 38 22 37.1046 22 36C22 34.8954 21.1046 34 20 34H8V10Z" fill="currentColor"/>
+<svg id="icone" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M21 19C21.5523 19 22 19.4477 22 20C22 20.5523 21.5523 21 21 21H13C12.4477 21 12 20.5523 12 20C12 19.4477 12.4477 19 13 19H21Z" fill="currentColor"/>
+<path d="M21 16C21.5523 16 22 16.4477 22 17C22 17.5523 21.5523 18 21 18H13C12.4477 18 12 17.5523 12 17C12 16.4477 12.4477 16 13 16H21Z" fill="currentColor"/>
+<path d="M21 13C21.5523 13 22 13.4477 22 14C22 14.5523 21.5523 15 21 15H13C12.4477 15 12 14.5523 12 14C12 13.4477 12.4477 13 13 13H21Z" fill="currentColor"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M20 3C21.1046 3 22 3.89543 22 5V11C22 11.5523 21.5523 12 21 12C20.4477 12 20 11.5523 20 11V6.04395L13.8418 10.834C12.7585 11.6766 11.2415 11.6766 10.1582 10.834L4 6.04395V17H10C10.5523 17 11 17.4477 11 18C11 18.5523 10.5523 19 10 19H4C2.89543 19 2 18.1046 2 17V5C2 3.89543 2.89543 3 4 3H20ZM5.91406 5L11.3857 9.25586C11.7469 9.53672 12.2531 9.53672 12.6143 9.25586L18.0859 5H5.91406Z" fill="currentColor"/>
 </svg>

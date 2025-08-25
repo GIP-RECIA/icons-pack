@@ -1,62 +1,6 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   version="1.1"
-   id="livret-apprenti-elec-2"
-   x="0px"
-   y="0px"
-   viewBox="0 0 96 96"
-   style="enable-background:new 0 0 96 96;"
-   xml:space="preserve"
-   sodipodi:docname="Yakforms.svg"
-   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"><metadata
-   id="metadata11"><rdf:RDF><cc:Work
-       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
-   id="defs9" /><sodipodi:namedview
-   pagecolor="#ffffff"
-   bordercolor="#666666"
-   borderopacity="1"
-   objecttolerance="10"
-   gridtolerance="10"
-   guidetolerance="10"
-   inkscape:pageopacity="0"
-   inkscape:pageshadow="2"
-   inkscape:window-width="2504"
-   inkscape:window-height="1376"
-   id="namedview7"
-   showgrid="false"
-   inkscape:zoom="2.4583333"
-   inkscape:cx="48"
-   inkscape:cy="48"
-   inkscape:window-x="1920"
-   inkscape:window-y="27"
-   inkscape:window-maximized="1"
-   inkscape:current-layer="livret-apprenti-elec-2" />
-<style
-   type="text/css"
-   id="style2">
-	.st0{fill:#FFA726;}
-	.st1{fill:#FFFFFF;}
-</style>
-<rect
-   id="bg"
-   x="0.1"
-   y="0.1"
-   class="st0"
-   width="95.9"
-   height="95.9"
-   style="fill:#66bb6a;fill-opacity:1" />
-<path
-   id="icone"
-   class="st1"
-   d="M24.4,28.6h17.1v17.1H24.4V28.6 M30.2,34.3V40h5.7v-5.7H30.2 M47.3,34.3h28.5V40H47.3V34.3   M47.3,57.2h28.5v5.7H47.3V57.2 M30.2,71.5l-10-10l4-4l6,5.9l13.1-13.1l4,4L30.2,71.5z" />
+<svg id="icone" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M11.1906 2.01074C12.1319 2.10637 12.8803 2.85448 12.9757 3.7959L12.9865 4V5H14.9835C15.9822 5 16.9806 6.0117 16.9806 7V9.00098C16.9806 9.55244 16.534 9.99989 15.9825 10C15.431 10 14.9835 9.55251 14.9835 9.00098V7H4.99719V20H14.9835V18.999C14.9835 18.4475 15.431 18 15.9825 18C16.534 18.0001 16.9806 18.4476 16.9806 18.999V20C16.9806 21.1046 16.0852 22 14.9806 22H4.99719C3.96774 21.9999 3.00012 20.9882 3.00012 20V7C3.00012 6.01176 3.96774 5.00013 4.99719 5H6.99426V4L7.005 3.7959C7.10726 2.78734 7.95878 2.00019 8.99426 2H10.9865L11.1906 2.01074ZM8.99426 5H10.9865V4H8.99426V5Z" fill="currentColor"/>
+<path d="M18.214 11.2344C19.1021 10.753 20.2372 11.0383 20.7501 11.8721C21.263 12.7062 20.9587 13.7733 20.0704 14.2549L13.6925 17.7129L13.506 17.8145L13.3292 17.8955C13.1481 17.9655 12.9532 18.0014 12.756 18L10.7491 17.9854C10.1857 17.9812 9.83449 17.4095 10.1124 16.9492L11.1017 15.3105C11.2315 15.0956 11.4207 14.9165 11.6486 14.793L12.0822 14.5586L18.214 11.2344Z" fill="currentColor"/>
+<path d="M8.95422 13C9.50613 13.0004 9.95422 13.448 9.95422 14C9.95422 14.552 9.50613 14.9996 8.95422 15H7.9552C7.40292 15 6.9552 14.5523 6.9552 14C6.9552 13.4477 7.40292 13 7.9552 13H8.95422Z" fill="currentColor"/>
+<path d="M11.9493 9C12.5014 9.00023 12.9493 9.44786 12.9493 10C12.9493 10.5521 12.5014 10.9998 11.9493 11H7.9552C7.40292 11 6.9552 10.5523 6.9552 10C6.9552 9.44772 7.40292 9 7.9552 9H11.9493Z" fill="currentColor"/>
 </svg>

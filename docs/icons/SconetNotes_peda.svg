@@ -1,12 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="vie-scolaire-sconet" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
-	 x="0px" y="0px" viewBox="0 0 96 96" style="enable-background:new 0 0 96 96;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill:#616161;}
-	.st1{fill:#FFFFFF;}
-</style>
-<rect id="bg" x="0.1" y="0.1" class="st0" width="95.9" height="95.9"/>
-<path id="icone" class="st1" d="M55.4,43.4H20.6v5.8h34.8V43.4 M55.4,31.8H20.6v5.8h34.8V31.8 M20.6,60.8h23.2V55H20.6V60.8
-	 M77.1,47.7l4.3,4.3L61.2,72.4l-13-13l4.3-4.3l8.7,8.7L77.1,47.7z"/>
+<svg id="icone" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M14.0002 19C15.6571 19 17.0002 17.6569 17.0002 16V13.0798L18 12.6586V17C18 17.5523 18.4477 18 19 18C19.5523 18 20 17.5523 20 17V12C20 11.9375 19.9943 11.8763 19.9833 11.817C20.7505 11.4221 21 10.5934 21 10C21 9.37504 20.7233 8.489 19.8562 8.12365L12.8595 5.17529C12.3048 4.94157 11.6952 4.94157 11.1405 5.17529L4.14375 8.12365C3.27674 8.489 3 9.37504 3 10C3 10.625 3.27674 11.511 4.14375 11.8764L7.00024 13.08V16C7.00024 17.6569 8.34339 19 10.0002 19H14.0002ZM9.00024 17H15.0002V13.9226L12.8595 14.8247C12.3048 15.0584 11.6952 15.0584 11.1405 14.8247L9.00024 13.9228V17ZM12 7L5 10L12 13L19 10L12 7Z" fill="currentColor"/>
 </svg>
