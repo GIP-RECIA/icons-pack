@@ -48,9 +48,11 @@
 <img src="./icons/Folios.svg" alt="Folios" title="Folios" width="50" height="50">
 <img src="./icons/GLC.svg" alt="GLC" title="GLC" width="50" height="50">
 <img src="./icons/GLPI.svg" alt="GLPI" title="GLPI" width="50" height="50">
+<img src="./icons/grid.svg" alt="grid" title="grid" width="50" height="50">
 <img src="./icons/GRR2_CFA.svg" alt="GRR2_CFA" title="GRR2_CFA" width="50" height="50">
 <img src="./icons/GRR2_netocentre.svg" alt="GRR2_netocentre" title="GRR2_netocentre" width="50" height="50">
 <img src="./icons/HelpInfo.svg" alt="HelpInfo" title="HelpInfo" width="50" height="50">
+<img src="./icons/home.svg" alt="home" title="home" width="50" height="50">
 <img src="./icons/I2Grouper-UI.svg" alt="I2Grouper-UI" title="I2Grouper-UI" width="50" height="50">
 <img src="./icons/ITSM.svg" alt="ITSM" title="ITSM" width="50" height="50">
 <img src="./icons/ItsTours_VieEtudiante.svg" alt="ItsTours_VieEtudiante" title="ItsTours_VieEtudiante" width="50" height="50">
@@ -97,6 +99,7 @@
 <img src="./icons/SiecleVieScolaire.svg" alt="SiecleVieScolaire" title="SiecleVieScolaire" width="50" height="50">
 <img src="./icons/SiteDRTIC.svg" alt="SiteDRTIC" title="SiteDRTIC" width="50" height="50">
 <img src="./icons/SiteEtablissement.svg" alt="SiteEtablissement" title="SiteEtablissement" width="50" height="50">
+<img src="./icons/star.svg" alt="star" title="star" width="50" height="50">
 <img src="./icons/Statistiques_CFA.svg" alt="Statistiques_CFA" title="Statistiques_CFA" width="50" height="50">
 <img src="./icons/Statistiques.svg" alt="Statistiques" title="Statistiques" width="50" height="50">
 <img src="./icons/support41.svg" alt="support41" title="support41" width="50" height="50">
