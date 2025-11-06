@@ -66,6 +66,7 @@
 <img src="./icons/MoodleMu.svg" alt="MoodleMu" title="MoodleMu" width="50" height="50">
 <img src="./icons/MyPads.svg" alt="MyPads" title="MyPads" width="50" height="50">
 <img src="./icons/Nextcloud.svg" alt="Nextcloud" title="Nextcloud" width="50" height="50">
+<img src="./icons/OffreEducative_CD28.svg" alt="OffreEducative_CD28" title="OffreEducative_CD28" width="50" height="50">
 <img src="./icons/OnisepServices.svg" alt="OnisepServices" title="OnisepServices" width="50" height="50">
 <img src="./icons/PDFOnline.svg" alt="PDFOnline" title="PDFOnline" width="50" height="50">
 <img src="./icons/pearltrees.svg" alt="pearltrees" title="pearltrees" width="50" height="50">

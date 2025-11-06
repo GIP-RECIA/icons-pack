@@ -80,6 +80,7 @@ NB: Les icônes doivent être nommées avec le format CamelCase. Les noms de doi
 ![](./portlet_icons/MoodleMu.svg)
 ![](./portlet_icons/MyPads.svg)
 ![](./portlet_icons/Nextcloud.svg)
+![](./portlet_icons/OffreEducative_CD28.svg)
 ![](./portlet_icons/OnisepServices.svg)
 ![](./portlet_icons/PDFOnline.svg)
 ![](./portlet_icons/pearltrees.svg)
