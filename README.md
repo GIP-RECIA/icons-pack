@@ -86,6 +86,7 @@ NB: Les icônes doivent être nommées avec le format CamelCase. Les noms de doi
 ![](./portlet_icons/pearltrees.svg)
 ![](./portlet_icons/PIA.svg)
 ![](./portlet_icons/pix-externe.svg)
+![](./portlet_icons/pix-parents.svg)
 ![](./portlet_icons/pix.svg)
 ![](./portlet_icons/PMB.svg)
 ![](./portlet_icons/pod.svg)

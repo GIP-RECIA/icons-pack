@@ -72,6 +72,7 @@
 <img src="./icons/pearltrees.svg" alt="pearltrees" title="pearltrees" width="50" height="50">
 <img src="./icons/PIA.svg" alt="PIA" title="PIA" width="50" height="50">
 <img src="./icons/pix-externe.svg" alt="pix-externe" title="pix-externe" width="50" height="50">
+<img src="./icons/pix-parents.svg" alt="pix-parents" title="pix-parents" width="50" height="50">
 <img src="./icons/pix.svg" alt="pix" title="pix" width="50" height="50">
 <img src="./icons/PMB.svg" alt="PMB" title="PMB" width="50" height="50">
 <img src="./icons/pod.svg" alt="pod" title="pod" width="50" height="50">
