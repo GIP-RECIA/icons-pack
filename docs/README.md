@@ -13,6 +13,7 @@
 <img src="./icons/AidePortailENT.svg" alt="AidePortailENT" title="AidePortailENT" width="50" height="50">
 <img src="./icons/AnnoncesRECIA.svg" alt="AnnoncesRECIA" title="AnnoncesRECIA" width="50" height="50">
 <img src="./icons/annuaire.svg" alt="annuaire" title="annuaire" width="50" height="50">
+<img src="./icons/Avenirs.svg" alt="Avenirs" title="Avenirs" width="50" height="50">
 <img src="./icons/BBB.svg" alt="BBB" title="BBB" width="50" height="50">
 <img src="./icons/CAPYTALE.svg" alt="CAPYTALE" title="CAPYTALE" width="50" height="50">
 <img src="./icons/Catalogue_OPSI.svg" alt="Catalogue_OPSI" title="Catalogue_OPSI" width="50" height="50">

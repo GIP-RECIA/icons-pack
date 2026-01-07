@@ -27,6 +27,7 @@ NB: Les icônes doivent être nommées avec le format CamelCase. Les noms de doi
 ![](./portlet_icons/AidePortailENT.svg)
 ![](./portlet_icons/AnnoncesRECIA.svg)
 ![](./portlet_icons/annuaire.svg)
+![](./portlet_icons/Avenirs.svg)
 ![](./portlet_icons/BBB.svg)
 ![](./portlet_icons/CAPYTALE.svg)
 ![](./portlet_icons/Catalogue_OPSI.svg)
