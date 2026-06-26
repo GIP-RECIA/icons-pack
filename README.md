@@ -57,6 +57,7 @@ NB: Les icônes doivent être nommées avec le format CamelCase. Les noms de doi
 ![](./portlet_icons/ESCO-MCE.svg)
 ![](./portlet_icons/ESCO-ParamEtab.svg)
 ![](./portlet_icons/esup-filemanager.svg)
+![](./portlet_icons/EtabManager.svg)
 ![](./portlet_icons/eurecia.svg)
 ![](./portlet_icons/Evento.svg)
 ![](./portlet_icons/FileSender.svg)

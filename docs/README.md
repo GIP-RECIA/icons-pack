@@ -43,6 +43,7 @@
 <img src="./icons/ESCO-MCE.svg" alt="ESCO-MCE" title="ESCO-MCE" width="50" height="50">
 <img src="./icons/ESCO-ParamEtab.svg" alt="ESCO-ParamEtab" title="ESCO-ParamEtab" width="50" height="50">
 <img src="./icons/esup-filemanager.svg" alt="esup-filemanager" title="esup-filemanager" width="50" height="50">
+<img src="./icons/EtabManager.svg" alt="EtabManager" title="EtabManager" width="50" height="50">
 <img src="./icons/eurecia.svg" alt="eurecia" title="eurecia" width="50" height="50">
 <img src="./icons/Evento.svg" alt="Evento" title="Evento" width="50" height="50">
 <img src="./icons/FileSender.svg" alt="FileSender" title="FileSender" width="50" height="50">
