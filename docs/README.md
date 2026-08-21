@@ -107,6 +107,7 @@
 <img src="./icons/Teleservices.svg" alt="Teleservices" title="Teleservices" width="50" height="50">
 <img src="./icons/tlDraw.svg" alt="tlDraw" title="tlDraw" width="50" height="50">
 <img src="./icons/VieScolaire.svg" alt="VieScolaire" title="VieScolaire" width="50" height="50">
+<img src="./icons/Vikunja.svg" alt="Vikunja" title="Vikunja" width="50" height="50">
 <img src="./icons/Wims.svg" alt="Wims" title="Wims" width="50" height="50">
 <img src="./icons/WiseMapping.svg" alt="WiseMapping" title="WiseMapping" width="50" height="50">
 <img src="./icons/XWIKI.svg" alt="XWIKI" title="XWIKI" width="50" height="50">
